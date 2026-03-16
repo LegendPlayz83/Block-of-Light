@@ -1,7 +1,7 @@
 # Block-of-Light
 
 This is an IRL Minecraft lantern which was created in KiCad 9.0 and Fusion 360. 
-<img src="https://cdn.hackclub.com/019cf1d2-d521-7a3f-876b-bba77045118a/full.png" alt="FUll lantern">
+<img src="https://cdn.hackclub.com/019cf56a-1355-70aa-8de6-fb03ec0835ba/panes.png" alt="FUll lantern">
 
 <h3>Schematic</h3>
 <img src="https://cdn.hackclub.com/019cf1d9-0e21-70fc-bbd6-2413c7b110a9/sch.png">
